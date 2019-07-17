@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "337449490428",
+    "firebase_url": "https://mailverification-ae41e.firebaseio.com",
+    "project_id": "mailverification-ae41e",
+    "storage_bucket": "mailverification-ae41e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337449490428:android:00ab8705c0cd2fd9",
+        "android_client_info": {
+          "package_name": "com.mailverification.gnp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337449490428-1d0j4ckgi77csd8hrf2h64f623eloqap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnyPd9mH2q6lGjX43OWeRVwojjgGDqQUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337449490428-1d0j4ckgi77csd8hrf2h64f623eloqap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337449490428:android:dc03758e9b2a4838",
+        "android_client_info": {
+          "package_name": "mail.verification_gnp13"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337449490428-1d0j4ckgi77csd8hrf2h64f623eloqap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnyPd9mH2q6lGjX43OWeRVwojjgGDqQUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337449490428-1d0j4ckgi77csd8hrf2h64f623eloqap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
